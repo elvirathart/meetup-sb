@@ -1,3 +1,4 @@
+
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -25,11 +26,9 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1.4;
-	width: 85%;
 	margin-right: auto;
 	margin-left: auto;
-	padding-left: 3em;
-	padding-right: 3em;
+	/* padding-right:10%; */
 }
 ol, ul {
 	list-style: none;
@@ -46,29 +45,15 @@ q:before, q:after {
 
 table {
 	position: relative;
-	/* left: 25%; */
+	left: 25%;
 	font-size: 0.8em;
-	/* border: 1px solid black; */
-	width: 100%;
 }
 
-th {
-	color: #00B2D1;
-	font-weight: 600;
-	font-size: 0.9em;
-	/* border-collapse: collapse; */
-	/* border-spacing: 0; */
-	width: 30%;
-	/* border: 1px solid black; */
-	/* padding-top: 1em; */
-}
-
-td {
+table, td {
 	border-collapse: collapse;
 	border-spacing: 0;
-	width: 30%;
+	width: 50%;
 	/* border: 1px solid black; */
-	/* padding-right: 100px; */
 }
 /* end of reset */
 
@@ -84,18 +69,16 @@ body {
 	font: normal normal 400;
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 2em;
-	margin-left: 1em;
-	/* position: relative; */
 }
 
 p {
 	color: #0D0F33;
 	font-size: 0.8em;
-	/* position: relative; */
+	position: relative;
 	left: 25%;
-	/* margin-bottom: 0;
-	margin-right: 0; */
-	/* width: 100%; */
+	margin-bottom: 0;
+	margin-right: 0;
+	width: 70%;
 }
 
 code {
@@ -112,12 +95,12 @@ p code {
 
 ul {
 	position: relative;
-	/* left: 25%; */
-	/* width: 100%; */
+	left: 25%;
+	width: 60%;
 	font-size: 0.8em;
 	padding-top: 0.3em;
 	padding-bottom: 0.3em;
-	/* line-height: 1.5em; */
+	line-height: 1.5em;
 }
 
 li:before {
@@ -126,7 +109,6 @@ li:before {
 	color: #00B2D1;
 	display: inline-block; width: 2em;
 	margin-left: -2em;
-	margin-top: 0.2em;
 }
 
 	/*second line indent*/
@@ -147,7 +129,7 @@ h1 {
 	font-size: 2em;
 	line-height: 1em;
 	position: relative;
-	/* left: 25%; */
+	left: 25%;
 }
 
 h1+p {
@@ -160,7 +142,7 @@ h1+p {
 	font-size: 0.9em;
 } */
 
-/* h2 {
+h2 {
 	font-weight: 600;
 	font-size: 1.1em;
 	color: #0D0F33;
@@ -169,18 +151,6 @@ h1+p {
 	top: 1.4em;
 	text-align: right;
 	width: 20%;
-} */
-
-h2 {
-	font-weight: 600;
-	font-size: 1.1em;
-	color: #0D0F33;
-	/* margin-top: 0em; */
-	position: relative;
-	/* top: 1.4em; */
-	/* left: 25%; */
-	/* text-align: right; */
-	/* width: 20%; */
 }
 
 h3 {
@@ -244,11 +214,3 @@ tbody td strong {
 @media only screen and (max-width: 480px) {
 	make one column somehow...
 }*/
-
-img {
-	position: absolute;
-	width: 25%;
-	top: 0px;
-	right: 0px;
-	display: block;
-}

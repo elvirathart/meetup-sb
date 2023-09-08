@@ -1,15 +1,38 @@
 ---
 layout: cv
-title: Elvira 't Hart CV
-output:
-    pdf_document
-header-includes:
-    /images/Logo_SmartQA.png
+title: Elvira 't Hart
+# output:
+#     pdf_document
 ---
+<img src="./images/Logo_SmartQA.png" alt="logo"/>
+
+<!-- ![logo](./images/Logo_SmartQA.png) -->
+
+
 # Elvira 't Hart
 Test Automation Engineer
+<br /><br />
 
-### Information
+|Information |Characteristics |Interests |
+|:---|:--- |:--- |
+| 28-06-1988 | Solution-oriented | Programming |
+| Nieuwegein | Creative | Design |
+||| Fashion |
+
+<!-- |Information |
+|:---|
+|28-06-1988 |
+
+|Characteristics |
+|:---|
+|Solution-oriented |
+
+|Interests |
+|:--- |
+|Programming | -->
+
+
+<!-- ### Information
 28-06-1988
 
 Nieuwegein
@@ -23,14 +46,18 @@ Design
 
 Fashion
 
-Programming
+Programming -->
+
+<br />
 
 ## Profile
 
 Elvira is a creative and solution-oriented professional and personality. She knows what she wants, why and can communicate this well. 
 What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />Her ambition is to keep learning and broadening her technical knowledge, she is hoping to be challenged with different assignments/problems.<br />Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks /magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
-## Knowledge & Skills
+
 <br />
+
+## Knowledge & Skills
 
 ### Languages
 
@@ -54,8 +81,11 @@ Python | •••
 CSS | •••
 HTML | •••
 
+<br />
+
 ## Work Experience
 
+<br />
 
 `aug. 2023 - sep. 2023`
 __Emendis__
@@ -113,7 +143,11 @@ Supported team of Keana, development of web based TMS by creating an end-to-end 
 - Suggest test-ability improvements to developers 
 - Tool selection: proposed to use Playwright over Cypress. <br />As POC executed part of the test in both Playwright and Cypress to show the advantages in this project 
 
+<br />
+
 ## Education
+
+<br />
 
 `2008 - 2011`
 
@@ -153,8 +187,11 @@ __Foundation Course__
 
 *Artez Arnhem*
 
+<br />
 
 ## Courses
+
+<br />
 
 `aug. 2022 – may 2023`
 
