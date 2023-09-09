@@ -33,7 +33,6 @@ ol, ul {
 }
 blockquote, q {
 	quotes: none;
-	/* font-style: italic; */
 }
 blockquote:before, blockquote:after,
 q:before, q:after {
@@ -44,30 +43,10 @@ q:before, q:after {
 table {
 	position: relative;
 	font-size: 0.8em;
-	width: 100%;
 	line-height: 1.2em;
-	/* border: 1px solid black; */
-}
-
-th {
-	color: #00B2D1;
-	font-weight: 600;
-	/* font-size: 0.8em; */
-	border-collapse: collapse;
-	border-spacing: 0;
-	width: 30%;
-	/* border: 1px solid black; */
-}
-
-td {
-	border-collapse: collapse;
-	border-spacing: 0;
-	width: 30%;
-	/* font-size: 0.7em; */
-	/* border: 1px solid black; */
+	width: 100%;
 }
 /* end of reset */
-
 
 body {
 	color: #0D0F33;
@@ -76,13 +55,16 @@ body {
 	margin-left: 1em;
 }
 
+td {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 30%;
+	/* border: 1px solid black; */
+}
 p {
 	color: #0D0F33;
 	font-size: 0.8em;
 	position: relative;
-	/* left: 25%; */
-	/* margin-bottom: 0;
-	margin-right: 0; */
 	/* width: 100%; */
 }
 
@@ -102,7 +84,6 @@ ul {
 	position: relative;
 	font-size: 0.8em;
 	padding-top: 0.3em;
-	padding-bottom: 0.3em;
 }
 
 li:before {
@@ -120,7 +101,6 @@ li {
 }
 
 h1,h2,h3,h4 {
-	/* font-weight: 400; */
 	font-family: Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
@@ -140,42 +120,22 @@ h1+p {
 	font-weight: 600;
 }
 
-/* h3+p {
-	font-size: 0.9em;
-} */
-
-/* h2 {
-	font-weight: 600;
-	font-size: 1.1em;
-	color: #0D0F33;
-	margin-top: 0em;
-	position: relative;
-	top: 1.4em;
-	text-align: right;
-	width: 20%;
-} */
-
 h2 {
 	font-weight: 600;
 	font-size: 1.1em;
 	color: #0D0F33;
 	position: relative;
+	padding-top: 1.4em;
+	padding-bottom: 0.4em;
 }
 
 h3 {
+	font-style: italic;
 	color: #00B2D1;
-	font-weight: 600;
-	font-size: 0.9em;
-	line-height: 1em;
-	position: relative;
-	top: 1.2em;
-	text-align: right;
-	/* width: 20%; */
+	font-weight: bold;
+	font-size:0.8em;
+	margin-bottom: 0.5em;
 }
-
-/* h3+p {
-	font-size: 1.2em;
-} */
 
 a {
 	color: inherit;
@@ -186,27 +146,7 @@ a:hover {
 	color:#39f
 }
 
-/* #webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
-}
-
-#webaddress a {
-	text-decoration: none;
-} */
-
 em {
-	/* font-style: italic; */
-	color: #00B2D1;
-	font-weight: bold;
-}
-
-p em {
-	font-style: italic;
 	color: #00B2D1;
 	font-weight: bold;
 }
@@ -218,25 +158,6 @@ strong {
 tbody td strong {
 	width: 70%;
 }
-
-/* #address {
-	display: none;
-} */
-
-
-
-/*
-@media only screen and (max-width: 480px) {
-	make one column somehow...
-}*/
-
-/* img {
-	position: absolute;
-	width: 25%;
-	top: 0px;
-	right: 0px;
-	display: block;
-} */
 
 img[alt$="<"] {
 	text-align: left;
