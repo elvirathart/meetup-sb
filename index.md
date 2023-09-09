@@ -1,23 +1,22 @@
 ---
 layout: cv
 title: Elvira 't Hart
-# output:
-#     pdf_document
 ---
-<img src="./images/Logo_SmartQA.png" alt="logo"/>
+![SmartQA-logo alt >](./images/Logo_SmartQA.png)
 
-<!-- ![logo](./images/Logo_SmartQA.png) -->
+![profielfoto alt <](./images/profielfoto.jpg)
 
+<br />
 
 # Elvira 't Hart
 Test Automation Engineer
-<br /><br />
 
-|Information        |Characteristics    |Interests          |
-|:---               |:---               |:---               |
-| 28-06-1988        | Solution-oriented | Programming       |
-| Nieuwegein        | Creative          | Design            |
-|                   |                   | Fashion           |
+<br />
+
+| ***Information*** | ***Characteristics*** |***Interests*** |
+| 28-06-1988        | Solution-oriented     | Programming    |
+| Nieuwegein        | Creative              | Design         |
+|                   |                       | Fashion        |
 
 <!-- |Information |
 |:---|
@@ -48,12 +47,10 @@ Fashion
 
 Programming -->
 
-<br />
-
 ## Profile
 
 Elvira is a creative and solution-oriented professional and personality. She knows what she wants, why and can communicate this well. 
-What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />Her ambition is to keep learning and broadening her technical knowledge, she is hoping to be challenged with different assignments/problems.<br />Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks /magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
+What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />Her ambition is to keep broadening her technical knowledge, she is hoping to be challenged with different assignments/problems.<br />Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks /magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
 
 <br /><br />
 
@@ -62,7 +59,7 @@ What started out as learning HTML and CSS to be able to build her own website le
 | ***Languages***            |   | ***Tools***                  |   |
 | Dutch                      |•••| Playwright                   |•••|
 | English                    |•••| Cypress                      |•••|
-|                            |•••| Webdriver.io                 |•••|
+|                            |   | Webdriver.io                 |•••|
 | ***Industries***           |   | Selenium                     |•••|
 | IT                         |•••| Locust                       |•••|
 | Fashion                    |•••| postman                      |•••|
@@ -90,32 +87,7 @@ What started out as learning HTML and CSS to be able to build her own website le
 | Linux                      |•••|                              |   |
 |                            |   |                              |   |
 
-<br />
-
-
-<!-- ### Languages
-
-Dutch | •••
-English | •••
-
-### Industries
-
-IT | •••
-Fashion | •••
-
-### Expertises
-
-Test automation | •••
-End-to-end testing | •••
-
-### Programming
-
-TypeScript | •••
-Python | •••
-CSS | •••
-HTML | ••• -->
-
-<br />
+<br /><br />
 
 ## Work Experience
 
