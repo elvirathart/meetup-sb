@@ -58,7 +58,7 @@ th {
 	font-size: 0.9em;
 	/* border-collapse: collapse; */
 	/* border-spacing: 0; */
-	width: 30%;
+	width: 10%;
 	/* border: 1px solid black; */
 	/* padding-top: 1em; */
 }
@@ -66,7 +66,7 @@ th {
 td {
 	border-collapse: collapse;
 	border-spacing: 0;
-	width: 30%;
+	width: 10%;
 	/* border: 1px solid black; */
 	/* padding-right: 100px; */
 }
@@ -175,6 +175,7 @@ h2 {
 	font-weight: 600;
 	font-size: 1.1em;
 	color: #0D0F33;
+	
 	/* margin-top: 0em; */
 	position: relative;
 	/* top: 1.4em; */
@@ -189,9 +190,21 @@ h3 {
 	font-size: 0.9em;
 	line-height: 1em;
 	position: relative;
-	top: 1.2em;
-	text-align: right;
-	width: 20%;
+	font-style: normal;
+	/* top: 1.2em; */
+	/* text-align: right; */
+	/* width: 20%; */
+}
+
+h4 {
+	color: #00B2D1;
+	font-weight: 600;
+	font-size: 0.9em;
+	/* line-height: 1em; */
+	/* position: relative; */
+	/* top: 1.2em; */
+	/* text-align: right; */
+	/* width: 20%; */
 }
 
 /* h3+p {
@@ -221,6 +234,12 @@ a:hover {
 } */
 
 em {
+	/* font-style: italic; */
+	color: #00B2D1;
+	font-weight: bold;
+}
+
+p em {
 	font-style: italic;
 	color: #00B2D1;
 	font-weight: bold;

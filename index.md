@@ -13,11 +13,11 @@ title: Elvira 't Hart
 Test Automation Engineer
 <br /><br />
 
-|Information |Characteristics |Interests |
-|:---|:--- |:--- |
-| 28-06-1988 | Solution-oriented | Programming |
-| Nieuwegein | Creative | Design |
-||| Fashion |
+|Information        |Characteristics    |Interests          |
+|:---               |:---               |:---               |
+| 28-06-1988        | Solution-oriented | Programming       |
+| Nieuwegein        | Creative          | Design            |
+|                   |                   | Fashion           |
 
 <!-- |Information |
 |:---|
@@ -55,11 +55,45 @@ Programming -->
 Elvira is a creative and solution-oriented professional and personality. She knows what she wants, why and can communicate this well. 
 What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />Her ambition is to keep learning and broadening her technical knowledge, she is hoping to be challenged with different assignments/problems.<br />Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks /magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
 
-<br />
+<br /><br />
 
 ## Knowledge & Skills
 
-### Languages
+| ***Languages***            |   | ***Tools***                  |   |
+| Dutch                      |•••| Playwright                   |•••|
+| English                    |•••| Cypress                      |•••|
+|                            |•••| Webdriver.io                 |•••|
+| ***Industries***           |   | Selenium                     |•••|
+| IT                         |•••| Locust                       |•••|
+| Fashion                    |•••| postman                      |•••|
+| Design                     |•••| Jenkins                      |•••|
+|                            |   | Jira                         |•••|
+| ***Expertises***           |   | Cucumber                     |•••|
+| Test automation            |•••| Git                          |•••|
+| End-to-end tessting        |•••|                              |   |
+| Performance & Load testing |•••| ***Liberaries & reporters*** |   |
+| CI                         |•••| Vue.js                       |•••|
+| API testing                |•••| Testing Library              |•••|
+|                            |   | Chai                         |•••|
+| ***Programming***          |   | Mocha                        |•••|
+| HTML                       |•••| Jest                         |•••|
+| CSS                        |•••| Nyc / Istanbul               |•••|
+| JavaScript                 |•••| Coveralls                    |•••|
+| TypeScript                 |•••| Codecov                      |•••|
+| Python                     |•••|                              |   |
+| Java                       |•••| ***Applications & editors*** |   |
+| Bash                       |•••| Adobe CS Suite               |•••|
+|                            |   | Affinity Photo & Designer    |•••|
+| ***OS & Networks***        |   | Coral Draw                   |•••|
+| MacOS                      |•••| VSCode                       |•••|
+| Windows                    |•••|                              |   |
+| Linux                      |•••|                              |   |
+|                            |   |                              |   |
+
+<br />
+
+
+<!-- ### Languages
 
 Dutch | •••
 English | •••
@@ -79,7 +113,7 @@ End-to-end testing | •••
 TypeScript | •••
 Python | •••
 CSS | •••
-HTML | •••
+HTML | ••• -->
 
 <br />
 

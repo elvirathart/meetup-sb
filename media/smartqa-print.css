@@ -25,11 +25,11 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1.4;
-	width: 85%;
+	width: 90%;
 	margin-right: auto;
 	margin-left: auto;
-	padding-left: 3em;
-	padding-right: 3em;
+	/* padding-left: 3em;
+	padding-right: 3em; */
 }
 ol, ul {
 	list-style: none;
@@ -46,7 +46,6 @@ q:before, q:after {
 
 table {
 	position: relative;
-	/* left: 25%; */
 	font-size: 0.8em;
 	/* border: 1px solid black; */
 	width: 100%;
@@ -85,14 +84,13 @@ body {
 	font-family: Avenir,Verdana,sans-serif;
 	margin-top: 2em;
 	margin-left: 1em;
-	/* position: relative; */
 }
 
 p {
 	color: #0D0F33;
 	font-size: 0.8em;
-	/* position: relative; */
-	left: 25%;
+	position: relative;
+	/* left: 25%; */
 	/* margin-bottom: 0;
 	margin-right: 0; */
 	/* width: 100%; */
@@ -112,7 +110,6 @@ p code {
 
 ul {
 	position: relative;
-	/* left: 25%; */
 	/* width: 100%; */
 	font-size: 0.8em;
 	padding-top: 0.3em;
