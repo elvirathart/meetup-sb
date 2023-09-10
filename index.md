@@ -1,7 +1,12 @@
 ---
 layout: cv
-title: Elvira 't Hart
+title: Elvira 't Hart | SmartQA
+output: 
+    html_document: default
+    word_document: default
+    pdf_document: default
 ---
+
 ![SmartQA-logo alt >](./images/Logo_SmartQA.png)
 
 ![profielfoto alt <](./images/profielfoto.jpg)
@@ -22,9 +27,9 @@ Test Automation Engineer
 
 Elvira is a creative and solution-oriented professional and personality. She knows what she wants, why and can communicate this well. 
 What started out as learning HTML and CSS to be able to build her own website led to more interest in IT. Nowadays, she can program in TypeScript and Python, is familiar with load testing and has successfully completed several assignments, including one at PwC.<br />
-Her ambition is to keep broadening her technical knowledge, she is hoping to be challenged with different assignments/problems.<br />
+Her ambition is to broaden her technical knowledge and is hoping to be challenged with different assignments/problems.<br />
 Before being lured into IT Elvira worked as an independent fashion designer. Her work balanced on the border of art and fashion. She developed a way to execute designs with a laser cutter. The result: being mentioned in schoolbooks /magazines, a design worn by Lady Gaga and featured in an exhibition #Techstyle at the Museum of Fine Arts in Boston. 
-<br />
+<br /><br />
 
 ## Knowledge & Skills
 
@@ -62,6 +67,10 @@ Before being lured into IT Elvira worked as an independent fashion designer. Her
 <br />
 
 ## Work Experience
+
+<!-- <p><code>aug. 2023 - sep. 2023</code>
+<strong>Emendis</strong></p>
+<h3>Test Automation Architect</h3> -->
 
 `aug. 2023 - sep. 2023`
 __Emendis__
