@@ -1,5 +1,5 @@
 ---
-layout: hackathon
+layout: cv
 title: Hackathon | SmartQA
 output: 
     pdf_document: default
