@@ -44,7 +44,7 @@ Bekijk de status van je container(s).
 __lxc --help__
 Bekijk de help pagina voor meer commando's.
 
-
+<br />
 
 <!-- 
 ***Languages***
