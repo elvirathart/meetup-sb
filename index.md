@@ -13,9 +13,11 @@ output:
 # Component Testing with Storybook
 
 
-<br />
+<br /><br />
 
-## Setup instructions:
+__Setup instructions:__
+
+<br /><br />
 
 Use your IDE of choice - we prefer VSCode
 <br />
@@ -28,7 +30,6 @@ Clone the repository:
 
 __git clone git@github.com:elvirathart/Meetup.git__
 
-<br />
 <br />
 
 __npm install__
