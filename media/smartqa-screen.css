@@ -247,12 +247,15 @@ strong {
 img[alt$="<"] {
   text-align: left;
   width: 25%;
-  /* padding-left: 1em; */
+  padding-left: 1em;
 }
 
 img[alt$=">"] {
-  float: right;
+display: flex;
+align-items: right;
+  /* float: right; */
   width: 25%;
+  margin-left: 60%;
 }
 
 /* header {
