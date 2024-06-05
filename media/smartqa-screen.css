@@ -248,14 +248,13 @@ strong {
 
 img[alt$="<"] {
   text-align: left;
-  width: 30%;
-  padding-left: 1em;
+  width: 40%;
 }
 
 img[alt$=">"] {
 display: flex;
 align-items: right;
-  /* float: right; */
+  float: right;
   width: 25%;
   margin-left: 60%;
 }
