@@ -196,7 +196,7 @@ h4 {
 h1 {
   font-weight: 600;
   color: #0d0f33;
-/*   text-align: left; */
+  text-align: center;
   font-size: 2em;
   line-height: 1em;
   position: relative;
