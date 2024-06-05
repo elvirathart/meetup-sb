@@ -13,9 +13,9 @@ output:
 # Component Testing with Storybook
 
 
-<br /><br />
+<br /><br /><br>
 
-__Setup instructions:__
+## Setup instructions:
 
 <br /><br />
 
