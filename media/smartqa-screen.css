@@ -248,7 +248,7 @@ strong {
 img[alt$="<"] {
   text-align: left;
   width: 40%;
-  margin-top: 1em;
+  margin-top: 1.1em;
 }
 
 img[alt$=">"] {
