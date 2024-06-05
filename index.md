@@ -7,7 +7,7 @@ output:
 
 ![SmartQA-logo alt <](./images/Logo_SmartQA.png)
 ![Meetup-logo alt >](./images/meetup-logo.png)
-
+![sb-comparison alt ^](./images/sb-comparison.svg)
 <br /><br /><br />
 
 # Component Testing with Storybook

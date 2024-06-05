@@ -255,6 +255,10 @@ img[alt$=">"] {
   margin-top: 2em;
 }
 
+img[alt$="^"] {
+  width: 100%;
+  margin-top: 2em;
+}
 /* header {
 	background-color: #e2f0f3;
 	width: 100%;
