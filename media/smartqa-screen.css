@@ -196,7 +196,7 @@ h4 {
 h1 {
   font-weight: 600;
   color: #0d0f33;
-  text-align: left;
+/*   text-align: left; */
   font-size: 2em;
   line-height: 1em;
   position: relative;
@@ -252,8 +252,8 @@ img[alt$="<"] {
 }
 
 img[alt$=">"] {
-display: flex;
-align-items: right;
+/* display: flex;
+align-items: right; */
   float: right;
   width: 25%;
   margin-left: 60%;
