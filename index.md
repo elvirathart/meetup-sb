@@ -1,81 +1,46 @@
 ---
-layout: cv
-title: Hackathon | SmartQA
+layout: meetup-storybook
+title: Meetup Storybook | SmartQA
 output: 
     pdf_document: default
 ---
 
-![SmartQA-logo alt >](./images/Logo_SmartQA.png)
+![SmartQA-logo alt <](./images/Logo_SmartQA.png)
+![Meetup-logo alt <](./images/meetup-logo.png)
 
 <br />
 
-# Hackathon
-containers containers containers
+# Component Testing with Storybook
+
 
 <br />
 
-## Wat gaan we doen?
-Lxd container opzetten.
+## Setup instructions:
 
-<br /><br />
-
-__snap install lxd__
-
-__lxd init__
-Alle vragen op default.
-
-__lxd --version__
-Versie 5.20?
-
-__lxc launch ubuntu:22.04 [naam container]__
-Maak een container aan met bijvoorbeeld Ubuntu 22.04 en geef de container een naam.
-
-__lxc exec [naam container] --sudo --user ubuntu --login__
-Om in te loggen op een container.
-Nu zit je in de container en heb je een volledige Ubuntu omgeving!
-
-__exit__
-Om weer uit de container te gaan.
-
-__lxc list__
-Bekijk de status van je container(s).
-
-__lxc --help__
-Bekijk de help pagina voor meer commando's.
-
+Use your IDE of choice - we prefer VSCode
+<br />
+Make sure you have Node installed: version 18.17.0
+<br />
 <br />
 
-<!-- 
-***Languages***
-
+Clone the repository:
 <br />
 
-## Work Experience
+__git clone git@github.com:elvirathart/Meetup.git__
 
+<br />
+<br />
 
+__npm install__
+<br />
+<br />
+If you now get the error that you are still missing the module @reduxjs/toolkit:
+<br />
 
-`may 2022 - jul 2022`
-__Keana__
+__npm install @reduxjs/toolkit__
+<br />
+<br />
 
-### Test Automation Engineer
-
-Supported team of Keana, development of web based TMS by creating an end-to-end automation test using Playwright. 
-
-- Define test cases and flow 
-- Determine coverage 
-- BDD using testing-library 
-- Accessibility testing 
-- Suggest test-ability improvements to developers 
-- Tool selection: proposed to use Playwright over Cypress. <br />As POC executed part of the test in both Playwright and Cypress to show the advantages in this project 
-<br /><br />
-
-## Education
-
-__Bachelor of Design, Fashion__
-`2008 - 2011`
-
-### Rietveld Academie, Amsterdam
-
-
-
- -->
+__npm run dev__
+<br />
+open localhost:3000 and continue with the instructions you find there...
