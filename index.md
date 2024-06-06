@@ -13,7 +13,7 @@ output:
 
 <br /><br /><br>
 
-![sb-comparison alt ^](./images/sb-comparison.svg)
+![sb-comparison alt ^](./images/test-comparison.svg)
 
 <br /><br /><br>
 
